@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alarm_item_padding">10dp</dimen>
+    <dimen name="all_stroke_button">1dp</dimen>
+    <dimen name="all_button_radius">15dp</dimen>
+
+    <dimen name="list_alarm_padding_horizontal">20dp</dimen>
+    <dimen name="list_alarm_padding_vertical">30dp</dimen>
+
+    <dimen name="create_alarm_button_padding">30dp</dimen>
+    <dimen name="create_alarm_padding_horizontal">20dp</dimen>
+    <dimen name="create_alarm_padding_vertical">30dp</dimen>
+    <dimen name="create_alarm_time_text_size">50sp</dimen>
+    <dimen name="create_alarm_time_margin">30dp</dimen>
+    <dimen name="list_alarm_time_text_size">20sp</dimen>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/color_background_button_fade">
+    <item android:id="@android:id/mask">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/all_button_radius"/>
+            <stroke android:width="@dimen/all_stroke_button" android:color="@color/color_stroke_button"/>
+            <solid android:color="@color/color_background_button_fade" />
+        </shape>
+    </item>
+
+    <item android:id="@android:id/background">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/all_button_radius"/>
+            <stroke android:width="@dimen/all_stroke_button" android:color="@color/color_stroke_button"/>
+            <solid android:color="@color/color_background_button" />
+        </shape>
+    </item>
+</ripple>

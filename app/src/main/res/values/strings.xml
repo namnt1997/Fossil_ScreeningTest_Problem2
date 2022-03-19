@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Alarm</string>
+    <string name="list_alarm_title">List alarm</string>
+    <string name="list_alarm_once">Once</string>
+    <string name="list_alarm_daily">Daily</string>
+    <string name="crate_alarm_select_time">Select time</string>
+    <string name="crate_alarm_update_time">Update time</string>
+    <string name="create_alarm_repeat">Repeat</string>
+    <string name="create_alarm_title">Add alarm</string>
+</resources>
